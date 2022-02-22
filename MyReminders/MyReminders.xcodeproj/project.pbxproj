@@ -14,6 +14,7 @@
 		280BCFB027C559C80075603E /* MyReminders.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 280BCFAE27C559C80075603E /* MyReminders.xcdatamodeld */; };
 		280BCFB227C559C90075603E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 280BCFB127C559C90075603E /* Assets.xcassets */; };
 		280BCFB527C559C90075603E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 280BCFB327C559C90075603E /* LaunchScreen.storyboard */; };
+		280BCFBE27C55CF10075603E /* AddViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 280BCFBD27C55CF10075603E /* AddViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		280BCFB127C559C90075603E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		280BCFB427C559C90075603E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		280BCFB627C559C90075603E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		280BCFBD27C55CF10075603E /* AddViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				280BCFA727C559C80075603E /* SceneDelegate.swift */,
 				280BCFA927C559C80075603E /* ViewController.swift */,
 				280BCFAB27C559C80075603E /* Main.storyboard */,
+				280BCFBD27C55CF10075603E /* AddViewController.swift */,
 				280BCFB127C559C90075603E /* Assets.xcassets */,
 				280BCFB327C559C90075603E /* LaunchScreen.storyboard */,
 				280BCFB627C559C90075603E /* Info.plist */,
@@ -140,6 +143,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				280BCFBE27C55CF10075603E /* AddViewController.swift in Sources */,
 				280BCFAA27C559C80075603E /* ViewController.swift in Sources */,
 				280BCFA627C559C80075603E /* AppDelegate.swift in Sources */,
 				280BCFA827C559C80075603E /* SceneDelegate.swift in Sources */,
